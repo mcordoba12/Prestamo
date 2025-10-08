@@ -1,6 +1,11 @@
 <a>npm install --save @nestjs/typeorm typeorm pg
+
 npm install -g @nestjs/cli
+
+
 nest new quiz-backend
+
+
 nest g resource cliente --no-spec
 
 </a>
