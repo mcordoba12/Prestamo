@@ -1,3 +1,17 @@
+<a>npm install --save @nestjs/typeorm typeorm pg
+npm install -g @nestjs/cli
+nest new quiz-backend
+nest g resource cliente --no-spec
+
+</a>
+
+
+
+
+
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
